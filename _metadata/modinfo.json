@@ -1,0 +1,15 @@
+{
+    "name": "Worker Diagnostics",
+    "summary": "Shows why workers don't reach your industry: arrivals, waiting workers and line problems.",
+    "description": "Shows why workers don't reach your industry. The full description is in description.html.",
+    "authors": [
+        {
+            "name": "RockingRolli",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Script Mod"
+    ],
+    "url": "https://github.com/RockingRolli/worker_diagnostics"
+}

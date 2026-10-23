@@ -1,0 +1,21 @@
+{
+    "cosmetic": true,
+    "dependencies": null,
+    "incompatibilities": null,
+    "modId": "rockingrolli_worker_diagnostics",
+    "options": null,
+    "params": null,
+    "postRunScript": {
+        "fileName": ""
+    },
+    "preRunScript": {
+        "fileName": ""
+    },
+    "revision": 1,
+    "runScript": {
+        "fileName": ""
+    },
+    "severityAdd": "None",
+    "severityRemove": "None",
+    "visible": true
+}

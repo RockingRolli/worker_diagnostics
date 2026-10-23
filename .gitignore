@@ -1,0 +1,5 @@
+# IDE project files (PyCharm / IntelliJ)
+.idea/
+# local tools, media sources and notes, not published
+local/
+CLAUDE.md
